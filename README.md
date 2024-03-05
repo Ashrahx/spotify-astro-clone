@@ -18,7 +18,7 @@ This repository contains a clone of the music service Spotify built using Astro.
 
 ## Instalation
 
-1. Clone this repository: git clone https://github.com/midudev/spotify-astro-clone.git
+1. Clone this repository: git clone https://github.com/Ashrahx/spotify-astro-clone.git
 2. Navigate to the project folder: cd spotify-astro-clone
 3. Install dependencies: npm install 
 4. Run the project: npm run dev
